@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Engr.Uzma\Desktop\Project\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Users\Engr.Uzma\Desktop\Project\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.1_fbb95419687662f02a06651d22fc9f5376e497c2\classes.dex" />
+    </item>
+    <item
+        jar="F:\Program Files\Android\Android Studio1\gradle\m2repository\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="C:\Users\Engr.Uzma\Desktop\Project\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-lang3-3.3.2_c51dcf49df8e1390417dab5d4264faee08e103e8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Engr.Uzma\Desktop\Project\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c6b3b98e45e35cdc212896f78c9a1cc99231583c">
+        <dex dex="C:\Users\Engr.Uzma\Desktop\Project\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1c8542b5632891aae47705d285de500323b6fe9e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Engr.Uzma\Desktop\Project\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\Engr.Uzma\Desktop\Project\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_4a6b5eb6f10de28285313ce4a6ca4ea7134223cc\classes.dex" />
+    </item>
+    <item
+        jar="F:\Program Files\Android\Android Studio1\gradle\m2repository\com\google\guava\guava\17.0\guava-17.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9c6ef172e8de35fd8d4d8783e4821e57cdef7445">
+        <dex dex="C:\Users\Engr.Uzma\Desktop\Project\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-17.0_d71a38cc086e9d76c5041f2b3c5f37437096bd70\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Engr.Uzma\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\Engr.Uzma\Desktop\Project\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_40d82cd82d53f6f50740e3ae887c647439c96bc1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Engr.Uzma\Desktop\Project\app\libs\mobilecloud.handin-1.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d0ffa75b489bf8eb2a13b37de382793f726a44f4">
+        <dex dex="C:\Users\Engr.Uzma\Desktop\Project\app\build\intermediates\transforms\dex\debug\folders\1000\2\mobilecloud.handin-1.0.0_4a564d1e454c9cf4386a44e80162e68ba7d10bb0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Engr.Uzma\Desktop\Project\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\Engr.Uzma\Desktop\Project\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_29be39e1a04ecf1d3a8f168257f96401d551a6b0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Engr.Uzma\Desktop\Project\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\Engr.Uzma\Desktop\Project\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_0e89a1e22ae1e28efcb5df9dd720bd784a5d48d0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Engr.Uzma\Desktop\Project\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5133a1c6cda91db79b695c19998b6fd896da04bc">
+        <dex dex="C:\Users\Engr.Uzma\Desktop\Project\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d48f4f8310244b654ebad66c1d947301f1a9bf50\classes.dex" />
+    </item>
+
+</items>
