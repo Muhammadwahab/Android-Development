@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\ANDROID\Android-Development\Gate\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\ANDROID\Android-Development\Gate\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_264d6c1f2e6cce395d502e6fa78728e8a3f397a2\classes.dex" />
+    </item>
+    <item
+        jar="D:\ANDROID\Android-Development\Gate\app\libs\mobilecloud.handin-1.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d0ffa75b489bf8eb2a13b37de382793f726a44f4">
+        <dex dex="D:\ANDROID\Android-Development\Gate\app\build\intermediates\transforms\dex\debug\folders\1000\2\mobilecloud.handin-1.0.0_0c46e08112bc20f1a0ba61b5fd236a4a65d98c8e\classes.dex" />
+    </item>
+    <item
+        jar="F:\Program Files\Android\Android Studio1\gradle\m2repository\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="D:\ANDROID\Android-Development\Gate\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-lang3-3.3.2_c51dcf49df8e1390417dab5d4264faee08e103e8\classes.dex" />
+    </item>
+    <item
+        jar="D:\ANDROID\Android-Development\Gate\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="78377e26a5ca061ad906d8a28769983754a31ab6">
+        <dex dex="D:\ANDROID\Android-Development\Gate\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ea5533f4d13910954f18b97db0e56e0da5bca72d\classes.dex" />
+    </item>
+    <item
+        jar="D:\ANDROID\Android-Development\Gate\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\ANDROID\Android-Development\Gate\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_188e0f22f9e1cbe8dba6a55505f9395363b84c37\classes.dex" />
+    </item>
+    <item
+        jar="D:\ANDROID\Android-Development\Gate\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="D:\ANDROID\Android-Development\Gate\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.1_c712f6aed072d1ceb8437330a804d08c900fe3a5\classes.dex" />
+    </item>
+    <item
+        jar="D:\ANDROID\Android-Development\Gate\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\ANDROID\Android-Development\Gate\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_662daee85f5a1dedb20203478d848175a5e5dd68\classes.dex" />
+    </item>
+    <item
+        jar="D:\ANDROID\Android-Development\Gate\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="df5fa1e77db5cb5c2564ed4be977f05a8e94f469">
+        <dex dex="D:\ANDROID\Android-Development\Gate\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_125a5e9a27a4de91d8a5af07db7073dcf5e74f8e\classes.dex" />
+    </item>
+    <item
+        jar="F:\Program Files\Android\Android Studio1\gradle\m2repository\com\google\guava\guava\17.0\guava-17.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9c6ef172e8de35fd8d4d8783e4821e57cdef7445">
+        <dex dex="D:\ANDROID\Android-Development\Gate\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-17.0_d71a38cc086e9d76c5041f2b3c5f37437096bd70\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Engr.Uzma\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\ANDROID\Android-Development\Gate\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_40d82cd82d53f6f50740e3ae887c647439c96bc1\classes.dex" />
+    </item>
+
+</items>

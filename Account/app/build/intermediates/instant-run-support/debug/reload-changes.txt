@@ -1,0 +1,3 @@
+CHANGED,D:\ANDROID\Android-Development\Account\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,D:\ANDROID\Android-Development\Account\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\accountapp\logic\Account$override.class
+CHANGED,D:\ANDROID\Android-Development\Account\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\accountapp\logic\Logic$override.class
