@@ -1,0 +1,93 @@
+------------------------------Assignment Evaluation-----------------------------
+--------Your solution received points for the following grading rubrics:--------
+
+
+testHouseToString
+Rubric Score: 1.0/1.0
+Goal: The goal of this evaluation is to testHouseToString
+Reference: This Test fails when: The House.toString() produced unexpected output
+
+testBuildingSetAndGet
+Rubric Score: 2.0/2.0
+Goal: The goal of this evaluation is to testBuildingSetAndGet
+Reference: This Test fails when: 1 or more of the Building.Set/Get had a problem
+
+testHouseOwner
+Rubric Score: 1.0/1.0
+Goal: The goal of this evaluation is to testHouseOwner
+Reference: This Test fails when: The House owner was incorrect
+
+testHouseEquals
+Rubric Score: 1.0/1.0
+Goal: The goal of this evaluation is to testHouseEquals
+Reference: This Test fails when: The House equals method failed
+
+testCottageSecondFloor
+Rubric Score: 1.0/1.0
+Goal: The goal of this evaluation is to testCottageSecondFloor
+Reference: This Test fails when: The Two story cottage failed
+
+testBuildingLotArea
+Rubric Score: 1.0/1.0
+Goal: The goal of this evaluation is to testBuildingLotArea
+Reference: This Test fails when: The Building lot area miscalculated
+
+testOfficeConstructor
+Rubric Score: 1.0/1.0
+Goal: The goal of this evaluation is to testOfficeConstructor
+Reference: This Test fails when: The Office doesn't have 0 default parking spots
+
+testOfficeEqauls
+Rubric Score: 1.0/1.0
+Goal: The goal of this evaluation is to testOfficeEqauls
+Reference: This Test fails when: The Office equals() is wrong
+
+testBuildingArea
+Rubric Score: 1.0/1.0
+Goal: The goal of this evaluation is to testBuildingArea
+Reference: This Test fails when: The Building area miscalculated
+
+testOfficeString
+Rubric Score: 1.0/1.0
+Goal: The goal of this evaluation is to testOfficeString
+Reference: This Test fails when: The Office toString() method is incorrect
+
+testOfficeArea
+Rubric Score: 1.0/1.0
+Goal: The goal of this evaluation is to testOfficeArea
+Reference: This Test fails when: The Office area miscalculated - check class
+hierarchy
+
+testOfficeLotArea
+Rubric Score: 1.0/1.0
+Goal: The goal of this evaluation is to testOfficeLotArea
+Reference: This Test fails when: The Office lot area miscalculated - check class
+hierarchy
+
+testSetSpaces
+Rubric Score: 1.0/1.0
+Goal: The goal of this evaluation is to testSetSpaces
+Reference: This Test fails when: The Number of parking spaces was set
+incorrectly
+
+testHousePool
+Rubric Score: 1.0/1.0
+Goal: The goal of this evaluation is to testHousePool
+Reference: This Test fails when: The House class is incorrect with having a pool
+
+testHouseAreas
+Rubric Score: 1.0/1.0
+Goal: The goal of this evaluation is to testHouseAreas
+Reference: This Test fails when: The House area/lot area miscalculated - check
+class hierarchy
+
+testNeighborhoodArea
+Rubric Score: 1.0/1.0
+Goal: The goal of this evaluation is to testNeighborhoodArea
+Reference: This Test fails when: The Neighborhood area calculation was wrong
+
+testCottageSingleFloor
+Rubric Score: 1.0/1.0
+Goal: The goal of this evaluation is to testCottageSingleFloor
+Reference: This Test fails when: The Single story cottage failed
+

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+
+>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                  android:orientation="horizontal"
+                  android:layout_width="wrap_content"
+                  android:id="@+id/dateAnTime"
+                  android:paddingLeft="20dp"
+
+                  android:layout_height="wrap_content">
+
+        <TextView
+                android:layout_height="36dp"
+                android:layout_width="36dp"
+
+
+                android:text="1.4"
+                android:fontFamily="sans-serif-medium"
+                android:gravity="center"
+                android:layout_gravity="center_vertical"
+                android:textSize="16sp"
+                android:textColor="@android:color/white"
+                android:background="@drawable/magnitude_circle"
+
+                android:id="@+id/magnitude"
+
+
+        />
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                      android:orientation="vertical"
+                      android:paddingLeft="20dp"
+
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content">
+            <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+
+                    android:text="new baba mor"
+                    android:ellipsize="end"
+                    android:fontFamily="sans-serif-medium"
+                    android:maxLines="1"
+                    android:textAllCaps="true"
+                    android:paddingTop="10dp"
+                    android:textColor="@color/textColorEarthquakeDetails"
+                    android:id="@+id/placedone"
+
+            />
+            <TextView
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:text="Karachi"
+                    android:padding="0dp"
+                    android:textColor="@color/textColorEarthquakeLocation"
+                    android:textStyle="bold"
+                    android:textAllCaps="true"
+                    android:textSize="20sp"
+                    android:maxLines="2"
+                    android:id="@+id/placedtwo"
+
+            />
+
+        </LinearLayout>
+
+
+
+
+
+    </LinearLayout>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                  android:orientation="vertical"
+                  android:layout_alignParentRight="true"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content">
+        <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+
+                android:text="25 novem"
+                android:paddingTop="10dp"
+                android:paddingRight="10dp"
+                android:id="@+id/date"
+
+        />
+        <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="5 pm"
+                android:padding="0dp"
+                android:id="@+id/time"
+
+        />
+
+    </LinearLayout>
+
+</RelativeLayout>

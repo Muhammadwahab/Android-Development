@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+
+              android:orientation="horizontal"
+              android:layout_height="match_parent">
+
+
+    <ImageView
+
+            android:layout_height="wrap_content"
+            android:id="@+id/ImageView"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:paddingTop="44dp"
+            android:paddingLeft="44dp"
+            android:paddingRight="44dp"
+            android:paddingBottom="44dp"
+            android:background="#FFF7DA"
+    />
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                  android:layout_width="match_parent"
+                  android:id="@+id/textcolour"
+                  android:orientation="vertical"
+
+                  android:paddingTop="44dp"
+                  android:paddingBottom="44dp"
+                  android:paddingLeft="16dp"
+                  android:layout_height="match_parent">
+
+        <TextView android:layout_width="match_parent"
+
+                  android:layout_height="wrap_content"
+                  android:id="@+id/listOne"
+                  android:paddingTop="16dp"
+                  android:paddingLeft="16dp"
+                  android:text="wahab"
+                  android:textColor="#FFFFFF"
+                  android:textStyle="bold"
+                  android:textSize="18sp"
+
+        />
+        <TextView android:layout_width="match_parent"
+
+                  android:layout_height="wrap_content"
+                  android:id="@+id/listTwo"
+
+                  android:paddingLeft="16dp"
+                  android:paddingBottom="16dp"
+
+                  android:text="wahab"
+                  android:textColor="#FFFFFF"
+
+                  android:textSize="18sp"
+
+        />
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
+

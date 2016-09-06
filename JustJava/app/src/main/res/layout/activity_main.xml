@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="20dp"
+
+       >
+
+    <TextView
+            android:text="quanity"
+            android:textAllCaps="true"
+            android:textStyle="bold"
+            android:textColor="@android:color/tertiary_text_light"
+            android:layout_width="wrap_content"
+            android:paddingBottom="20dp"
+            android:textSize="16sp"
+            android:layout_height="wrap_content"/>
+    <Button
+
+            android:layout_height="48dp"
+            android:layout_width="48dp"
+            android:textAllCaps="true"
+
+            android:text="+"
+            android:onClick="increment"
+
+
+    />
+
+
+    <TextView
+            android:text="2"
+            android:id="@+id/count"
+            android:textAllCaps="true"
+            android:textStyle="bold"
+            android:textColor="@android:color/black"
+
+            android:layout_width="wrap_content"
+            android:paddingBottom="20dp"
+            android:paddingLeft="16dp"
+            android:layout_height="wrap_content"/>
+    <Button
+
+            android:layout_height="48dp"
+            android:layout_width="48dp"
+
+            android:textAllCaps="true"
+
+            android:text="-"
+            android:onClick="Decrement"
+
+
+    />
+    <TextView
+            android:text="prize"
+            android:textAllCaps="true"
+            android:textStyle="bold"
+            android:textColor="@android:color/tertiary_text_light"
+
+            android:layout_width="wrap_content"
+            android:paddingTop="20dp"
+            android:paddingBottom="20dp"
+            android:layout_height="wrap_content"/>
+
+    <TextView
+            android:text="20"
+            android:id="@+id/prize"
+
+            android:textAllCaps="true"
+            android:textStyle="bold"
+            android:textColor="@android:color/tertiary_text_light"
+
+            android:layout_width="wrap_content"
+            android:paddingBottom="20dp"
+            android:paddingLeft="16dp"
+            android:layout_height="wrap_content"/>
+<Button
+
+android:layout_height="48dp"
+android:layout_width="wrap_content"
+android:paddingRight="0dp"
+android:textAllCaps="true"
+
+android:text="order"
+android:onClick="submit"
+
+
+/>
+
+
+
+
+</LinearLayout>
