@@ -79,7 +79,7 @@ public class EarthquakeActivity extends AppCompatActivity implements LoaderManag
         ConnectivityManager connMgr = (ConnectivityManager)
                 getSystemService(Context.CONNECTIVITY_SERVICE);
         NetworkInfo networkInfo = connMgr.getActiveNetworkInfo();
-        if (networkInfo != null && networkInfo.getType() == ConnectivityManager.TYPE_WIFI && networkInfo.isConnected()) {
+        if (networkInfo != null  && networkInfo.isConnected()) {
             // fetch data
             Log.v("Network connect","Connction availale");
             getSupportLoaderManager().initLoader(1, null, this).forceLoad();
