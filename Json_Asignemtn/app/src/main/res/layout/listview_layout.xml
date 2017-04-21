@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+
+        android:id="@+id/cityID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="city" />
+
+    <TextView
+
+        android:id="@+id/Earth_magID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="magnitude"
+
+        />
+    <TextView
+
+        android:id="@+id/Earth_latID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="latitude"
+
+        />
+    <TextView
+
+        android:id="@+id/Earth_longID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="longitude"
+
+        />
+    <TextView
+
+        android:id="@+id/Earth_dateTImeID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Data and Time"
+
+        />
+    <TextView
+
+        android:id="@+id/Earth_depthID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Depth"
+
+        />
+
+</LinearLayout>

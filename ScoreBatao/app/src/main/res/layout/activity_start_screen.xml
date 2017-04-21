@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorAccent"
+    tools:context="com.example.abdull.scorebatao.Activity.StartScreen">
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="Log TO Get Score"
+        android:textAllCaps="true"
+        android:textStyle="bold|italic"
+
+        android:gravity="center"
+        android:paddingTop="100dp"
+        android:textSize="70sp"
+        android:id="@+id/someText"
+        />
+    <EditText
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/someText"
+        android:id="@+id/emailID"
+        android:hint="Emal Address"
+        android:paddingLeft="20dp"
+
+        />
+
+    <EditText
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/emailID"
+        android:id="@+id/password"
+        android:hint="Password "
+        android:paddingLeft="20dp"
+
+        />
+
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="Login"
+        android:paddingLeft="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_below="@+id/password"
+        android:id="@+id/loginID"
+        />
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="Forget Password"
+        android:paddingLeft="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_below="@id/loginID"
+        android:id="@+id/forget"
+        style="?android:attr/borderlessButtonStyle"
+        />
+
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="Sign Up"
+        android:paddingLeft="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_below="@id/forget"
+        android:id="@+id/signUp"
+
+        />
+
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="Login With Fb"
+        android:paddingLeft="20dp"
+        android:layout_marginLeft="10dp"
+
+        android:layout_alignParentBottom="true"
+        android:id="@+id/signUpFB"
+
+        />
+
+
+
+
+</RelativeLayout>
