@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text=""
+        android:textAllCaps="true"
+        android:textStyle="bold|italic"
+        android:paddingTop="1dp"
+        android:textSize="70sp"
+        android:id="@+id/loadData"
+        />
+    <EditText
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/loadData"
+        android:id="@+id/emailID"
+        android:hint="FullName"
+        android:paddingLeft="20dp"
+
+        />
+
+    <EditText
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/emailID"
+        android:id="@+id/EmailID"
+        android:hint="Email "
+        android:paddingLeft="20dp"
+
+        />
+
+    <EditText
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/EmailID"
+        android:id="@+id/NicID"
+        android:hint="Nic "
+        android:paddingLeft="20dp"
+
+        />
+
+    <EditText
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/NicID"
+        android:id="@+id/PhoneID"
+        android:hint="PhoneNUmber "
+        android:paddingLeft="20dp"
+
+        />
+
+    <EditText
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/PhoneID"
+        android:id="@+id/password"
+        android:hint="password"
+        android:paddingLeft="20dp"
+
+        />
+
+
+
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="Create Account"
+        android:paddingLeft="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_below="@+id/password"
+        android:id="@+id/loginID"
+        />
+
+
+
+
+
+</RelativeLayout>

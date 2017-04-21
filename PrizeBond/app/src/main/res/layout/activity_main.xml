@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.abdull.prizebond.MainActivity">
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text=""
+        android:textAllCaps="true"
+        android:textStyle="bold|italic"
+        android:paddingTop="1dp"
+        android:id="@+id/loadData"
+        />
+    <EditText
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/loadData"
+        android:id="@+id/emailID"
+        android:hint="Emal Address"
+        android:paddingLeft="20dp"
+
+        />
+
+    <EditText
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/emailID"
+        android:id="@+id/EmailID"
+        android:hint="Password "
+        android:paddingLeft="20dp"
+
+        />
+
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="Login"
+        android:paddingLeft="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_below="@+id/EmailID"
+        android:id="@+id/loginID"
+        />
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="Sign Up"
+        android:paddingLeft="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_below="@id/loginID"
+        android:id="@+id/signUp"
+
+        />
+
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="Admin Login"
+        android:paddingLeft="20dp"
+        android:layout_marginLeft="10dp"
+
+        android:layout_alignParentBottom="true"
+        android:id="@+id/signUpFB"
+
+        />
+
+
+</RelativeLayout>
