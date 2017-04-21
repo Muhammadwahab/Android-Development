@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.example.engruzma.mivok">
+
+    <application
+            android:allowBackup="true"
+            android:icon="@mipmap/ic_launcher"
+            android:label="@string/app_name"
+            android:supportsRtl="true"
+            android:theme="@style/AppTheme">
+        <activity android:name=".ColorActivity"
+                  android:label="Color"
+
+
+        >
+        </activity>
+        <activity android:name=".PhraseActivity"
+                  android:label="Phrase"
+
+        >
+        </activity>
+        <activity android:name=".NumberActivity"
+                  android:label="Number"
+
+
+
+
+        >
+
+
+        </activity>
+        <activity android:name=".FamilyActivity"
+                  android:label="Family"
+
+
+        >
+        </activity>
+
+
+    </application>
+
+</manifest>

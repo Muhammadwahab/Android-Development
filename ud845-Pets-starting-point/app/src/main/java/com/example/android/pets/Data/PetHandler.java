@@ -17,7 +17,7 @@ public class PetHandler extends SQLiteOpenHelper {
     private static final String NOT_NULL = " not null";
     private static final String COMMA_SEP = ",";
     private static final String SQL_CREATE_ENTRIES ="create table " +PetsEntry.TABLE_NAME+
-            "(id integer primary key autoincrement" +COMMA_SEP+
+            "(_id integer primary key autoincrement" +COMMA_SEP+
             PetsEntry.COLUM_NAME+TEXT_TYPE+NOT_NULL+COMMA_SEP+PetsEntry.COLUM_BREED+TEXT_TYPE+COMMA_SEP+PetsEntry.COLUM_GENDER
             +INEG_TYPE+NOT_NULL+COMMA_SEP+PetsEntry.COLUM_WEIGHT+INEG_TYPE+" default 0)";
 

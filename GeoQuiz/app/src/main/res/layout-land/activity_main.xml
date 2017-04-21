@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+
+        tools:context="com.example.engruzma.geoquiz.MainActivity">
+
+    <TextView
+
+
+            android:textAllCaps="true"
+            android:textSize="@android:dimen/app_icon_size"
+            android:fontFamily="casual"
+            android:text="@string/True"
+            android:paddingTop="20dp"
+            android:id="@+id/textQuest"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    <LinearLayout
+            android:layout_width="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:layout_height="wrap_content">
+        <Button android:layout_width="wrap_content"
+                android:id="@+id/trueKey"
+                android:text="@string/True"
+                android:layout_height="wrap_content"/>
+        <Button android:layout_width="wrap_content"
+                android:id="@+id/FalseKey"
+                android:text="@string/False"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+    <Button android:layout_width="wrap_content"
+            android:id="@+id/cheet"
+            android:text="@string/cheet"
+            android:layout_gravity="bottom|center_horizontal"
+            android:layout_height="wrap_content"/>
+
+
+
+        <ImageButton android:layout_width="wrap_content"
+                     android:id="@+id/prev"
+                     android:drawable="@drawable/ic_keyboard_arrow_right_black_48dp"
+                     android:src="@drawable/ic_chevron_left_black_48dp"
+                     android:layout_gravity="bottom|left"
+                     android:layout_height="wrap_content"/>
+        <ImageButton android:layout_width="wrap_content"
+                     android:id="@+id/next"
+                     android:layout_gravity="bottom|right"
+                     android:drawable="@drawable/ic_keyboard_arrow_right_black_48dp"
+                     android:src="@drawable/ic_keyboard_arrow_right_black_48dp"
+                     android:layout_height="wrap_content"/>
+
+
+</FrameLayout>

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\res\\merged\\debug\\values-v21\\values-v21.xml",
+        "outputFile": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\res\\merged\\debug\\values-v21\\values-v21.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 112
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 203
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 306
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 409
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 514
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 621
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 730
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 839
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 948
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 1057
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 1166
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 1273
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 1376
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 1495
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -278,7 +278,7 @@
                     "endOffset": 1650
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -299,7 +299,7 @@
                     "endOffset": 1805
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -319,7 +319,7 @@
                     "endOffset": 1910
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -338,7 +338,7 @@
                     "endOffset": 2031
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -357,7 +357,7 @@
                     "endOffset": 2132
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -377,7 +377,7 @@
                     "endOffset": 2279
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -398,7 +398,7 @@
                     "endOffset": 2420
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -418,7 +418,7 @@
                     "endOffset": 2523
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -437,7 +437,7 @@
                     "endOffset": 2642
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
@@ -456,7 +456,7 @@
                     "endOffset": 2749
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -475,7 +475,7 @@
                     "endOffset": 2852
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 4,
@@ -495,7 +495,7 @@
                     "endOffset": 2999
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -516,7 +516,7 @@
                     "endOffset": 3154
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 4,
@@ -537,7 +537,7 @@
                     "endOffset": 3325
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 4,
@@ -558,7 +558,7 @@
                     "endOffset": 3474
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
@@ -579,7 +579,7 @@
                     "endOffset": 3639
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 4,
@@ -600,7 +600,7 @@
                     "endOffset": 3796
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 4,
@@ -621,7 +621,7 @@
                     "endOffset": 3947
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
@@ -642,7 +642,7 @@
                     "endOffset": 4096
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
@@ -663,7 +663,7 @@
                     "endOffset": 4245
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 4,
@@ -683,7 +683,7 @@
                     "endOffset": 4357
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 62,
                         "startColumn": 4,
@@ -702,7 +702,7 @@
                     "endOffset": 4504
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 65,
                         "startColumn": 4,
@@ -722,7 +722,7 @@
                     "endOffset": 4657
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 66,
                         "startColumn": 4,
@@ -743,7 +743,7 @@
                     "endOffset": 4804
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 68,
                         "startColumn": 4,
@@ -763,7 +763,7 @@
                     "endOffset": 4879
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 72,
                         "startColumn": 4,
@@ -782,7 +782,7 @@
                     "endOffset": 4968
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 73,
                         "startColumn": 4,
@@ -801,7 +801,7 @@
                     "endOffset": 5055
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 74,
                         "startColumn": 4,
@@ -820,7 +820,7 @@
                     "endOffset": 5156
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 75,
                         "startColumn": 4,
@@ -840,7 +840,7 @@
                     "endOffset": 8640
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 76,
                         "startColumn": 4,
@@ -861,7 +861,7 @@
                     "endOffset": 8826
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 125,
                         "startColumn": 4,
@@ -882,7 +882,7 @@
                     "endOffset": 12322
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 128,
                         "startColumn": 4,
@@ -903,7 +903,7 @@
                     "endOffset": 12520
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 177,
                         "startColumn": 4,
@@ -924,7 +924,7 @@
                     "endOffset": 12643
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 182,
                         "startColumn": 4,
@@ -945,7 +945,7 @@
                     "endOffset": 12766
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 184,
                         "startColumn": 4,
@@ -966,7 +966,7 @@
                     "endOffset": 12879
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 186,
                         "startColumn": 4,
@@ -987,7 +987,7 @@
                     "endOffset": 13062
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 188,
                         "startColumn": 4,
@@ -1008,7 +1008,7 @@
                     "endOffset": 13193
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 191,
                         "startColumn": 4,
@@ -1028,7 +1028,7 @@
                     "endOffset": 13310
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 193,
                         "startColumn": 4,
@@ -1047,7 +1047,7 @@
                     "endOffset": 13399
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 194,
                         "startColumn": 4,
@@ -1066,7 +1066,7 @@
                     "endOffset": 13510
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 195,
                         "startColumn": 4,
@@ -1085,7 +1085,7 @@
                     "endOffset": 13637
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 196,
                         "startColumn": 4,
@@ -1104,7 +1104,7 @@
                     "endOffset": 13738
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 197,
                         "startColumn": 4,
@@ -1123,7 +1123,7 @@
                     "endOffset": 13833
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 198,
                         "startColumn": 4,
@@ -1142,7 +1142,7 @@
                     "endOffset": 13956
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 199,
                         "startColumn": 4,
@@ -1161,7 +1161,7 @@
                     "endOffset": 14085
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 200,
                         "startColumn": 4,
@@ -1180,7 +1180,7 @@
                     "endOffset": 14202
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 201,
                         "startColumn": 4,
@@ -1199,7 +1199,7 @@
                     "endOffset": 14295
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 202,
                         "startColumn": 4,
@@ -1219,7 +1219,7 @@
                     "endOffset": 14430
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 203,
                         "startColumn": 4,
@@ -1240,7 +1240,7 @@
                     "endOffset": 14573
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 205,
                         "startColumn": 4,
@@ -1261,7 +1261,7 @@
                     "endOffset": 14708
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 207,
                         "startColumn": 4,
@@ -1282,7 +1282,7 @@
                     "endOffset": 14827
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 209,
                         "startColumn": 4,
@@ -1303,7 +1303,7 @@
                     "endOffset": 15028
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 211,
                         "startColumn": 4,
@@ -1324,7 +1324,7 @@
                     "endOffset": 15147
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 215,
                         "startColumn": 4,
@@ -1344,7 +1344,7 @@
                     "endOffset": 15240
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 217,
                         "startColumn": 4,
@@ -1363,7 +1363,7 @@
                     "endOffset": 15351
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 218,
                         "startColumn": 4,
@@ -1382,7 +1382,7 @@
                     "endOffset": 15407
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 219,
                         "startColumn": 4,
@@ -1402,7 +1402,7 @@
                     "endOffset": 15514
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 220,
                         "startColumn": 4,
@@ -1423,7 +1423,7 @@
                     "endOffset": 15709
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 222,
                         "startColumn": 4,
@@ -1444,7 +1444,7 @@
                     "endOffset": 15820
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 226,
                         "startColumn": 4,
@@ -1465,7 +1465,7 @@
                     "endOffset": 15953
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 228,
                         "startColumn": 4,
@@ -1485,7 +1485,7 @@
                     "endOffset": 16048
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 230,
                         "startColumn": 4,
@@ -1504,7 +1504,7 @@
                     "endOffset": 16139
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 231,
                         "startColumn": 4,
@@ -1524,7 +1524,7 @@
                     "endOffset": 16448
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 232,
                         "startColumn": 4,
@@ -1544,7 +1544,7 @@
                     "endOffset": 16561
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 237,
                         "startColumn": 4,
@@ -1563,7 +1563,7 @@
                     "endOffset": 16678
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 238,
                         "startColumn": 4,
@@ -1583,7 +1583,7 @@
                     "endOffset": 16817
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 239,
                         "startColumn": 4,
@@ -1604,7 +1604,7 @@
                     "endOffset": 17170
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 243,
                         "startColumn": 4,
@@ -1625,7 +1625,7 @@
                     "endOffset": 17535
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 250,
                         "startColumn": 4,
@@ -1646,7 +1646,7 @@
                     "endOffset": 18220
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 257,
                         "startColumn": 4,
@@ -1667,7 +1667,7 @@
                     "endOffset": 18906
                 },
                 "from": {
-                    "file": "D:\\ANDROID\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
+                    "file": "D:\\ANDROID\\Android-Development\\Daimond\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 267,
                         "startColumn": 4,

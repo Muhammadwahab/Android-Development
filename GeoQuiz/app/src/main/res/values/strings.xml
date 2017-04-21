@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="True">True</string>
+    <string name="False">False</string>
+    <string name="first_Question">what is your name</string>
+    <string name="Correct">Correct</string>
+    <string name="Wrong">Wrong</string>
+    <string name="next">Next</string>
+    <string name="one">America in Asia</string>
+    <string name="two">America in eurape</string>
+    <string name="three">America in africa</string>
+    <string name="four">America in gainda</string>
+    <string name="cheet">Cheet</string>
+    <string name="warning">Cheeter should be hang</string>
+
+    <string name="showanser">Show Answer</string>
+
+
+
+</resources>

@@ -10,7 +10,7 @@ public  final class PetContract {
 
     public static String CONTENT_AUTHORITY = "com.example.android.pets";
     public static final Uri BASE_CONTENT_URI = Uri.parse("content://" + CONTENT_AUTHORITY);
-    public static final String PATH_PETS = "pets";
+    public static final String PATH_PETS = PetsEntry.TABLE_NAME;
 
 
 
@@ -24,7 +24,7 @@ public  final class PetContract {
 
         public static final String TABLE_NAME="pet";
         public  int DATABASE_VERSION=1;
-        public static String ID=BaseColumns._ID;
+        public static String ID;
         public static final String COLUM_NAME="NAME";
         public static final String COLUM_BREED="BREED";
         public static final String COLUM_GENDER="GENDER";

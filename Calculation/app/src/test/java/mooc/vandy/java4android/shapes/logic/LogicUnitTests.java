@@ -180,7 +180,7 @@ public class LogicUnitTests {
         assertEquals((4.0/3.0)*Math.PI, Logic.sphereVolume(1), 0.001);
         assertEquals((4.0/3.0)*Math.PI*8, Logic.sphereVolume(2), 0.001);
         assertEquals((4.0/3.0)*Math.PI*12.167, Logic.sphereVolume(2.3), 0.001);
-        assertEquals((4.0/3.0)*Math.PI*125, Logic.sphereVolume(5), 0.001);
+        assertEquals((4.0/3.0)*Math.PI*125, Logic.sphereVolume(5), 0.0001);
         assertEquals((4.0/3.0)*Math.PI*1000, Logic.sphereVolume(10), 0.001);
     }
 
