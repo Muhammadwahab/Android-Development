@@ -19,6 +19,7 @@ import android.widget.Toast;
 
 import java.util.ArrayList;
 
+
 public class inspirationList extends AppCompatActivity {
 
     Context context;
@@ -26,6 +27,9 @@ public class inspirationList extends AppCompatActivity {
 
     ListView listView;
     String Dummy[]={"wahab","wahab","wahab","wahab","wahab"};
+    ArrayAdapter arrayAdapter;
+     ArrayList arrayList;
+     helper helper;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -34,11 +38,12 @@ public class inspirationList extends AppCompatActivity {
         context=this;
 
         listView= (ListView) findViewById(R.id.inspirations);
-        final helper helper=new helper(getApplicationContext());
-        final ArrayList arrayList=helper.showRecord();
+         helper=new helper(getApplicationContext());
+        arrayList=helper.showRecord();
 
-        ArrayAdapter arrayAdapter=new ArrayAdapter(getApplicationContext(),android.R.layout.simple_list_item_1,arrayList);
+         arrayAdapter=new ArrayAdapter(getApplicationContext(),android.R.layout.simple_list_item_1,arrayList);
         listView.setAdapter(arrayAdapter);
+
 
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
@@ -111,6 +116,11 @@ public class inspirationList extends AppCompatActivity {
                                 {
                                     helper update=new helper(context);
                                     update.updateRecord(id,localName,localInspiration);
+                                    arrayList=helper.showRecord();
+                                    arrayAdapter.clear();
+                                    arrayAdapter.addAll(arrayList);
+                                    arrayAdapter.notifyDataSetChanged();
+
                                 }
 
 
@@ -134,6 +144,10 @@ public class inspirationList extends AppCompatActivity {
 
                         helper helper1=new helper(context);
                         helper.deleteSpecificRecord(id);
+                        arrayList=helper.showRecord();
+                        arrayAdapter.clear();
+                        arrayAdapter.addAll(arrayList);
+                        arrayAdapter.notifyDataSetChanged();
                     }
                 });
 
@@ -167,6 +181,8 @@ public class inspirationList extends AppCompatActivity {
         {
             case R.id.deleteAll:
                 new helper(getApplicationContext()).deleteAll();
+                arrayAdapter.clear();
+                arrayAdapter.notifyDataSetChanged();
             default :
                 return super.onOptionsItemSelected(item);
 
