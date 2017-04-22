@@ -1,6 +1,7 @@
 package com.example.abdull.database_asignment;
 
 
+import android.app.SearchManager;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.os.Bundle;
@@ -15,6 +16,7 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.EditText;
 import android.widget.ListView;
+import android.widget.SearchView;
 import android.widget.Toast;
 
 import java.util.ArrayList;
@@ -170,8 +172,16 @@ public class inspirationList extends AppCompatActivity {
 
         MenuInflater layoutInflater=getMenuInflater();
         layoutInflater.inflate(R.menu.menu,menu);
+        // Associate searchable configuration with the SearchView
 
-        return super.onCreateOptionsMenu(menu);
+        SearchManager searchManager =
+                (SearchManager) getSystemService(Context.SEARCH_SERVICE);
+        SearchView searchView =
+                (SearchView) menu.findItem(R.id.search).getActionView();
+        searchView.setSearchableInfo(
+                searchManager.getSearchableInfo(getComponentName()));
+
+        return true;
     }
 
     @Override
@@ -183,8 +193,10 @@ public class inspirationList extends AppCompatActivity {
                 new helper(getApplicationContext()).deleteAll();
                 arrayAdapter.clear();
                 arrayAdapter.notifyDataSetChanged();
+
+
             default :
-                return super.onOptionsItemSelected(item);
+                return true;
 
         }
     }
