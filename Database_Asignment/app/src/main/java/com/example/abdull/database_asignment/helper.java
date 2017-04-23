@@ -100,6 +100,24 @@ public class helper extends SQLiteOpenHelper {
         database.close();
     }
 
+    public ArrayList searchRecoid(String searchData)
+    {
+        ArrayList arrayList=new ArrayList();
+        String Select="Select *from "+table+" where "+NAME+"='"+searchData+"'"+" OR "+Inspiration+"='"+searchData+"'";
+        SQLiteDatabase database=this.getReadableDatabase();
+        Cursor cursor=database.rawQuery(Select,null);
+
+
+        while(cursor.moveToNext())
+        {
+            int namePosition=cursor.getColumnIndex(NAME);
+            int inspirationPostion=cursor.getColumnIndex(Inspiration);
+            String data="Name is "+cursor.getString(namePosition)+"\n Inspiration is "+cursor.getString(inspirationPostion);
+            arrayList.add(data);
+        }
+        database.close();
+        return arrayList;
+    }
 }
 
 
