@@ -97,10 +97,6 @@ public class inspirationList extends AppCompatActivity {
                         inspiration.setText(array[5].toString());
 
 
-
-
-
-
                         builder.setPositiveButton("OK", new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
@@ -193,7 +189,6 @@ public class inspirationList extends AppCompatActivity {
                 new helper(getApplicationContext()).deleteAll();
                 arrayAdapter.clear();
                 arrayAdapter.notifyDataSetChanged();
-
 
             default :
                 return true;
