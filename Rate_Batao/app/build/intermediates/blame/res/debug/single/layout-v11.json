@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/abdull/.android/build-cache/783ff18975646ef4f6fce28b202381d4ca3f46c2/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/abdull/.android/build-cache/783ff18975646ef4f6fce28b202381d4ca3f46c2/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/abdull/.android/build-cache/783ff18975646ef4f6fce28b202381d4ca3f46c2/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/abdull/.android/build-cache/783ff18975646ef4f6fce28b202381d4ca3f46c2/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/abdull/.android/build-cache/783ff18975646ef4f6fce28b202381d4ca3f46c2/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/abdull/.android/build-cache/783ff18975646ef4f6fce28b202381d4ca3f46c2/output/res/layout-v11/notification_template_big_media_custom.xml"
+    }
+]

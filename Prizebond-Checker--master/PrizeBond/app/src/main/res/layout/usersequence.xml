@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+
+    >
+
+
+    <RelativeLayout
+        android:id="@+id/listcolor"
+        android:layout_width="match_parent"
+        android:layout_height="95dp"
+        android:background="#69F0AE"
+       >
+
+
+        <TextView
+            android:id="@+id/nametext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="name"
+            android:textSize="20dp"
+            android:textColor="@android:color/black"
+            android:textStyle="normal"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:padding="5dp"/>
+
+        <TextView
+            android:id="@+id/numbertext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="03122674664"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="5dp"
+            android:textSize="20dp"
+            android:padding="5dp"
+            android:textColor="@android:color/black"
+            />
+
+        <TextView
+            android:id="@+id/drawnumbertext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2512151"
+            android:layout_below="@id/nametext"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="20dp"
+            android:textColor="#000000"
+            android:padding="5dp"/>
+
+
+    </RelativeLayout>
+
+
+
+</LinearLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#e1e0de</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="defult">#e1e0de</color>
+    <color name="text">#f7f7f7</color>
+    <color name="gmtext">#F44336</color>
+    <color name="fb">#0071bc</color>
+    <color name="bgcolor">#e7d2bd</color>
+    <color name="defaul_text">#1D233D</color>
+
+</resources>

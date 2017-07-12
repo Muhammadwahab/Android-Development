@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/abdull/.android/build-cache/6729569d05f555af19378c11836f1387c0ef14ba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b6c0a014742d5f107c5142a84f997c3ee7735cb5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abdull/.android/build-cache/775453f9068a38d7f861c3a5898aba5320c04888/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_809e68a5c8696fdbc1dd0fe92514a1929d1a716f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abdull/.android/build-cache/26848d2056e4e5305c052cb89a363cbc01a72366/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_34afe57103bcb737ff2e9fb58a30ea252a42f064/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_efa88b36f139ce076d36c15e270eb407870d6f38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abdull/.android/build-cache/b3e86a2b1808f85a1d96f1ca5410ccb3abc02c0b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_80044d469e0639643e664be079ff8b948f1f2d1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abdull/.android/build-cache/0af63801065dbdc1234701007fece366d4f32c3d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0f6555dd8e1063ad6f10fc158b11ebc08b2d70cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8c34ce2b314d6f2705b9db040b969d7a99947fbe">
+        <dex dex="/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_68550f41aa0c80280f34f28c690da2bd64258526/classes.dex" />
+    </item>
+
+</items>

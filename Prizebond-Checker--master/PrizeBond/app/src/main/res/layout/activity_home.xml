@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ajmalsyed.prizebond.Home"
+    android:orientation="vertical"
+    android:background="#4CAF50">
+
+
+    <Button
+        android:id="@+id/dataload_button"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="Data Load"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="150dp"
+        android:background="#69F0AE"
+
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        />
+    <Button
+        android:id="@+id/userrecord_button"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="User Record"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:background="#69F0AE"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        />
+
+
+    <Button
+        android:id="@+id/adduser_button"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="Add User"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:background="#69F0AE"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        />
+</LinearLayout>

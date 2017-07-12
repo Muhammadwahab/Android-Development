@@ -13,7 +13,6 @@ import android.text.TextUtils;
 import android.util.Log;
 import com.example.android.pets.CatalogActivity;
 import com.example.android.pets.Data.PetContract.PetsEntry;
-
 import static android.R.attr.id;
 
 /**

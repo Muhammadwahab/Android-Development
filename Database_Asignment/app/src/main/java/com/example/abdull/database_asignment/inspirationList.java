@@ -108,7 +108,6 @@ public class inspirationList extends AppCompatActivity {
 
                                 if(localName.equals(array[2].toString()) && localInspiration.equals(array[5].toString()))
                                 {
-
                                 }
                                 else
                                 {
@@ -118,21 +117,12 @@ public class inspirationList extends AppCompatActivity {
                                     arrayAdapter.clear();
                                     arrayAdapter.addAll(arrayList);
                                     arrayAdapter.notifyDataSetChanged();
-
                                 }
-
-
-
                                 Toast.makeText(getApplicationContext(),"localName"+localName+localInspiration,Toast.LENGTH_LONG).show();
-
-
-
                             }
                         });
                         AlertDialog dialogUpdate=builder.create();
                         dialogUpdate.show();
-
-
 
                     }
                 });
@@ -151,8 +141,6 @@ public class inspirationList extends AppCompatActivity {
 
                 AlertDialog optionAlert=optionBuilder.create();
                 optionAlert.show();
-
-
 
 
                 return false;

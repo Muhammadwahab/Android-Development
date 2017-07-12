@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/res/merged/debug/drawable-mdpi/post.png",
+        "source": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/src/main/res/drawable-mdpi/post.png"
+    },
+    {
+        "merged": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/res/merged/debug/drawable-mdpi/gmlogo.png",
+        "source": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/src/main/res/drawable-mdpi/gmlogo.png"
+    },
+    {
+        "merged": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/res/merged/debug/drawable-mdpi/password.png",
+        "source": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/src/main/res/drawable-mdpi/password.png"
+    },
+    {
+        "merged": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/res/merged/debug/drawable-mdpi/email.png",
+        "source": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/src/main/res/drawable-mdpi/email.png"
+    },
+    {
+        "merged": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/res/merged/debug/drawable-mdpi/gmbtn.png",
+        "source": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/src/main/res/drawable-mdpi/gmbtn.png"
+    },
+    {
+        "merged": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/res/merged/debug/drawable-mdpi/search.png",
+        "source": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/src/main/res/drawable-mdpi/search.png"
+    },
+    {
+        "merged": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/res/merged/debug/drawable-mdpi/fblogo.png",
+        "source": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/src/main/res/drawable-mdpi/fblogo.png"
+    },
+    {
+        "merged": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/res/merged/debug/drawable-mdpi/gmpbtn.png",
+        "source": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/src/main/res/drawable-mdpi/gmpbtn.png"
+    }
+]

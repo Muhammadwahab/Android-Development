@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    }
+]

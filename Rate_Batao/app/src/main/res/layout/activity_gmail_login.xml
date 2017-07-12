@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+   android:background="@drawable/gmailloginscreen"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.riaz.rate_batao.Gmail_login">
+
+    <EditText
+        android:id="@+id/gmid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:textColor="@color/gmtext"
+        android:drawableLeft="@drawable/gmbtn"
+        android:drawablePadding="15dp"
+        android:hint="Email"
+        android:fontFamily="sans-serif-condensed"
+        android:textColorHint="@color/gmtext"
+        android:textStyle="bold"
+        android:backgroundTint="@color/gmtext"
+        android:ems="10"
+        android:maxLines="1"
+        />
+    <EditText
+        android:layout_below="@+id/gmid"
+        android:id="@+id/gmpass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:textColor="@color/gmtext"
+        android:drawableLeft="@drawable/gmpbtn"
+        android:drawablePadding="15dp"
+        android:hint="Password"
+        android:textColorHint="@color/gmtext"
+        android:fontFamily="sans-serif-condensed"
+        android:textStyle="bold"
+        android:backgroundTint="@color/gmtext"
+        android:ems="10"
+        android:maxLines="1"
+        />
+    <Button
+        android:id="@+id/gmlogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/gmpass"
+        android:layout_marginRight="22dp"
+        android:layout_marginLeft="22dp"
+        android:background="@drawable/gbutton"
+        android:text="LOGIN"
+        android:textAlignment="center"
+        android:textColor="@color/text"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif-condensed"
+        android:textSize="20dp"
+        />
+
+
+</RelativeLayout>

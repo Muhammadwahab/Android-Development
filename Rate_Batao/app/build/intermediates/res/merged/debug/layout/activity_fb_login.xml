@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/fblogin"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.riaz.rate_batao.Fb_login">
+<EditText
+    android:id="@+id/fbid"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_centerHorizontal="true"
+    android:layout_centerVertical="true"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+    android:textColor="@color/text"
+    android:drawableLeft="@drawable/email"
+    android:drawablePadding="15dp"
+    android:hint="Email"
+    android:fontFamily="sans-serif-condensed"
+    android:textStyle="bold"
+    android:backgroundTint="@color/fb"
+    android:ems="10"
+    android:maxLines="1"
+    />
+    <EditText
+        android:layout_below="@+id/fbid"
+        android:id="@+id/fbpass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:textColor="@color/text"
+        android:drawableLeft="@drawable/password"
+        android:drawablePadding="15dp"
+        android:hint="Password"
+        android:fontFamily="sans-serif-condensed"
+        android:textStyle="bold"
+        android:backgroundTint="@color/fb"
+        android:ems="10"
+        android:maxLines="1"
+        />
+<Button
+    android:id="@+id/fblogin"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@id/fbpass"
+    android:layout_marginRight="20dp"
+    android:layout_marginLeft="20dp"
+    android:background="@drawable/fbloginbtn"
+    android:text="LOGIN"
+    android:textAlignment="center"
+    android:textColor="@color/text"
+    android:textStyle="bold"
+    android:fontFamily="sans-serif-condensed"
+    android:textSize="20dp"
+    />
+
+
+</RelativeLayout>

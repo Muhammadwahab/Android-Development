@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/abdull/.android/build-cache/783ff18975646ef4f6fce28b202381d4ca3f46c2/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/abdull/.android/build-cache/783ff18975646ef4f6fce28b202381d4ca3f46c2/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/abdull/.android/build-cache/783ff18975646ef4f6fce28b202381d4ca3f46c2/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/abdull/.android/build-cache/783ff18975646ef4f6fce28b202381d4ca3f46c2/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/abdull/.android/build-cache/eb4a98122325d1e66aea18e373b1e23f96566b82/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/home/abdull/.android/build-cache/eb4a98122325d1e66aea18e373b1e23f96566b82/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/home/abdull/.android/build-cache/eb4a98122325d1e66aea18e373b1e23f96566b82/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/abdull/.android/build-cache/783ff18975646ef4f6fce28b202381d4ca3f46c2/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/abdull/.android/build-cache/783ff18975646ef4f6fce28b202381d4ca3f46c2/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/abdull/.android/build-cache/eb4a98122325d1e66aea18e373b1e23f96566b82/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/abdull/.android/build-cache/783ff18975646ef4f6fce28b202381d4ca3f46c2/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/abdull/.android/build-cache/eb4a98122325d1e66aea18e373b1e23f96566b82/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/abdull/.android/build-cache/783ff18975646ef4f6fce28b202381d4ca3f46c2/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/abdull/.android/build-cache/783ff18975646ef4f6fce28b202381d4ca3f46c2/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/abdull/.android/build-cache/eb4a98122325d1e66aea18e373b1e23f96566b82/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/abdull/.android/build-cache/783ff18975646ef4f6fce28b202381d4ca3f46c2/output/res/anim/abc_fade_in.xml"
+    }
+]

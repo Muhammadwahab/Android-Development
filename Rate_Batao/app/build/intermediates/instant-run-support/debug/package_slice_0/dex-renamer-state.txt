@@ -1,0 +1,4 @@
+#Tue May 02 11:27:43 PKT 2017
+base.0=/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0
+renamed.0=classes.dex
+file.0=/media/abdull/Data/ANDROID/Android-Development/Rate_Batao/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex

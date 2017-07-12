@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "237961964754",
+    "firebase_url": "https://fbauthentication-64c80.firebaseio.com",
+    "project_id": "fbauthentication-64c80",
+    "storage_bucket": "fbauthentication-64c80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237961964754:android:0c9c09405249007b",
+        "android_client_info": {
+          "package_name": "com.example.abdull.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237961964754-ga31nrcgh63brnkp505oepe8e4ifa55q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abdull.authentication",
+            "certificate_hash": "5eec72496aa55cf0a39b3df5d20d3423a0fab5f6"
+          }
+        },
+        {
+          "client_id": "237961964754-0f7a2qfm36egt9bih61h8pmqa91n0it4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDirLC3K4CECPWizIA7vRDp2eM3qLvqPEs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237961964754-0f7a2qfm36egt9bih61h8pmqa91n0it4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

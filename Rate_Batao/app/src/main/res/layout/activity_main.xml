@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login_screen"
+    android:orientation="vertical"
+    tools:context="com.example.riaz.rate_batao.MainActivity">
+<LinearLayout
+    android:layout_weight="7"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+</LinearLayout>
+
+    <LinearLayout
+    android:orientation="vertical"
+    android:layout_weight="3"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <Button
+        android:id="@+id/fb"
+        android:textStyle="bold"
+        android:textSize="18dp"
+        android:text="Sing in With facebook"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:textAlignment="center"
+        android:drawableLeft="@drawable/fblogo"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/fbbutton"
+        android:fontFamily="sans-serif"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/defult"
+        />
+    <Button
+        android:textColor="@color/defult"
+        android:id="@+id/gmail"
+        android:fontFamily="sans-serif"
+        android:drawableLeft="@drawable/gmlogo"
+        android:textStyle="bold"
+        android:textSize="18dp"
+        android:text="Sing in With Google"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:textAlignment="center"
+        android:background="@drawable/gbutton"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+<Button
+    android:layout_marginLeft="20dp"
+    android:text="Dailog"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/dailogbtn"
+    />
+
+</LinearLayout>
+
+
+</LinearLayout>

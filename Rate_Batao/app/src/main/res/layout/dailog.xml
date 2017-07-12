@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="@color/bgcolor"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:id="@+id/profile_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:text="Shaikh riaz"
+        android:textColor="@color/defaul_text"
+        android:fontFamily="sans-serif-condensed"
+        />
+
+    <TextView
+        android:textColor="@color/defaul_text"
+        android:textSize="15sp"
+        android:textAlignment="center"
+        android:id="@+id/profile_city"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/profile_name"
+        android:layout_alignStart="@+id/profile_name"
+        android:layout_below="@+id/profile_name"
+        android:layout_marginTop="5dp"
+        android:fontFamily="sans-serif-condensed"
+        android:text="Karachi" />
+
+    <EditText
+        android:fontFamily="sans-serif-condensed"
+        android:backgroundTint="@color/defaul_text"
+        android:id="@+id/profile_post"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/profile_city"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:allowUndo="true"
+        android:ems="10"
+        android:textColorHint="@color/defaul_text"
+        android:textColor="@color/defaul_text"
+        android:hint="Posts something"
+        android:inputType="text"
+        android:maxLines="3"
+        />
+
+    <Button
+        android:layout_marginLeft="4dp"
+        android:backgroundTint="@color/defaul_text"
+        android:background="@drawable/button"
+        android:textColor="@color/text"
+        android:id="@+id/post_ok"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="Post"
+        android:layout_alignBaseline="@+id/post_cancle"
+        android:layout_alignBottom="@+id/post_cancle"
+        android:layout_toRightOf="@+id/profile_city"
+        android:layout_toEndOf="@+id/profile_city" />
+
+    <Button
+        android:layout_marginRight="1dp"
+        android:backgroundTint="@color/defaul_text"
+        android:background="@drawable/button"
+        android:textColor="@color/text"
+        android:id="@+id/post_cancle"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="Discard"
+        android:layout_below="@+id/profile_post"
+        android:layout_toLeftOf="@+id/post_ok"
+        android:layout_toStartOf="@+id/post_ok"
+        android:layout_marginTop="36dp" />
+
+
+</RelativeLayout>
